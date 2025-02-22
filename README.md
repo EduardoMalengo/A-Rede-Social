@@ -25,4 +25,4 @@ Este projeto permite que os usuários façam login, escolham um servidor, se com
 
 1. Clone este repositório para o seu computador:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git = http://127.0.0.1:5500/paginainicial.html
+   https://github.com/EduardoMalengo/A-Rede-Social.git
